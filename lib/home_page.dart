@@ -42,7 +42,7 @@ class _SharedPreferenceExampleState extends State<SharedPreferenceExample> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey[200], // Light background color
+      backgroundColor: Colors.grey[200],
       appBar: AppBar(
         title: const Text(
           "Shared Preferences",
